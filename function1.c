@@ -1,4 +1,5 @@
 #include<stdio.h>
+//with return type with argument
 int add(int num1,int num2);
 int main()
 {
