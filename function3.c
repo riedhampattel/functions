@@ -1,4 +1,5 @@
 #include<stdio.h>
+//with return type without argument
 int add();
 int main()
 {
