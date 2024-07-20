@@ -5,9 +5,9 @@ int main()
 {
 	int n1,n2,ans;
 	printf("\nEnter the value of num1 = ");
-	scanf("%d",&n1);//5
+	scanf("%d",&n1);
 	printf("\nEnter the value of num2 = ");
-	scanf("%d",&n2);//5
+	scanf("%d",&n2);
 	ans = add(n1,n2);
 	printf("\nThe addition of %d and %d is %d",n1,n2,ans);
 	return 0;
